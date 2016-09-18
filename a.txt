@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 this is test 多人合作
+=======
+t
+his is test
+hello everyone
+>>>>>>> dd3e61bc31c08693e7bb72940b6930c2da11f5ae
